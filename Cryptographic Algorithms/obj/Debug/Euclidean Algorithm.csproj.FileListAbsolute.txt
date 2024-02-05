@@ -1,0 +1,10 @@
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\bin\Debug\Euclidean Algorithm.exe.config
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\bin\Debug\Euclidean Algorithm.exe
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\bin\Debug\Euclidean Algorithm.pdb
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Euclidean Algorithm.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Euclidean_Algorithm.Form1.resources
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Euclidean_Algorithm.Properties.Resources.resources
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Euclidean Algorithm.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Euclidean Algorithm.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Euclidean Algorithm.exe
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Euclidean Algorithm.pdb

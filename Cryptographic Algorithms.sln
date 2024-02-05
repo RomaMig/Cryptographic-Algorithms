@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31321.278
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Cryptographic Algorithms", "Euclidean Algorithm\Cryptographic Algorithms.csproj", "{6DD2AD65-CA9A-46A5-90FB-CFE78CA2AF6E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{6DD2AD65-CA9A-46A5-90FB-CFE78CA2AF6E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6DD2AD65-CA9A-46A5-90FB-CFE78CA2AF6E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6DD2AD65-CA9A-46A5-90FB-CFE78CA2AF6E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6DD2AD65-CA9A-46A5-90FB-CFE78CA2AF6E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {B7463717-00AF-4016-B994-38F931221420}
+	EndGlobalSection
+EndGlobal

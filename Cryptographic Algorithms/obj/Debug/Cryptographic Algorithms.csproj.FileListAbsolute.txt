@@ -1,0 +1,11 @@
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Cryptographic Algorithms.csproj.AssemblyReference.cache
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Cryptographic_Algorithms.Form1.resources
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Cryptographic Algorithms.csproj.GenerateResource.cache
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Cryptographic Algorithms.csproj.CoreCompileInputs.cache
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\bin\Debug\Cryptographic Algorithms.exe.config
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\bin\Debug\Cryptographic Algorithms.exe
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\bin\Debug\Cryptographic Algorithms.pdb
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Cryptographic_Algorithms.Properties.Resources.resources
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Cryptographic Algorithms.exe
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Cryptographic Algorithms.pdb
+C:\Users\pc\source\repos\Euclidean Algorithm\Euclidean Algorithm\obj\Debug\Cryptographic_Algorithms.User.resources
